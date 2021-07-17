@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-17 01:24+0200\n"
+"PO-Revision-Date: 2021-07-17 01:36+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: help.py:25
+msgid "Help"
+msgstr "小幫手"
+
+#: help.py:26
+msgid "'Use"
+msgstr "使用"
+
+#: help.py:26
+msgid "<module>` to gain more information about that module :smiley:\n"
+msgstr "<module>` 來了解此機器人的資訊 :smiley:\n"
+
+#: help.py:36
+msgid "- commands"
+msgstr "- 指令"
+
+#: help.py:50
+msgid "What's that?!"
+msgstr "啊?!"
+
+#: help.py:51
+msgid "I've never heard from a module called"
+msgstr "我沒有看過"
+
+#: help.py:51
+msgid "before :scream:"
+msgstr "這個指令:scream:"
+
+#: help.py:56
+msgid "That's too much."
+msgstr "太多資訊了."
+
+#: help.py:57
+msgid "Please request only one module at once :sweat_smile:"
+msgstr "請提供一個請求訊息就好:sweat_smile:"
+
+#: help.py:61
+msgid "It's a magical place."
+msgstr "這是一個神奇的小地方."
+
+#: help.py:62
+msgid ""
+"I don't know how you got here. But I didn't see this coming at all.\n"
+"Would you please be so kind to report that issue to me on github?\n"
+"https://github.com/Chromeilion/Discord-Levels-Bot\n"
+"Thank you! ~Chrome"
+msgstr ""
+"我不知道你是怎麼來這裡的.但我也不知道這會發生.\n"
+"可以請你將這個回報給機器人創作者嗎?\n"
+"連結:https://github.com/Chromeilion/Discord-Levels-Bot\n"
+"感謝! -Chrome 和 firi 敬上"

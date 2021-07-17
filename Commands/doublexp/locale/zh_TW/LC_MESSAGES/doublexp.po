@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-16 14:38+0200\n"
+"PO-Revision-Date: 2021-07-16 14:39+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: doublexp.py:32
+msgid ":x: SETUP FAILED"
+msgstr ":x: 設定錯誤"
+
+#: doublexp.py:33
+msgid "You need to enter a role name!"
+msgstr "你必須要輸入一個身分組名稱!"
+
+#: doublexp.py:35
+msgid "Example:"
+msgstr "例:"
+
+#: doublexp.py:35
+msgid "doublexp <rolename>"
+msgstr "doublexp <身分組>"
+
+#: doublexp.py:39
+msgid ":white_check_mark: DOUBLE XP ROLE!"
+msgstr ":white_check_mark: 雙倍經驗!"
+
+#: doublexp.py:40
+msgid "The new Double XP Role:"
+msgstr "新的雙倍經驗身分組:"
+
+#: doublexp.py:45
+msgid ""
+"\n"
+"doublexp <rolename> \n"
+"\n"
+"About:\n"
+"The DoubleXP command will let you set what role will earn \n"
+"x2 XP *Admin Only*"
+msgstr ""
+"\n"
+"doublexp<身分組名稱>\n"
+"\n"
+"內容：\n"
+"此指令將為所選用戶\n"
+"經驗值加成調為兩倍*僅限管理員*"

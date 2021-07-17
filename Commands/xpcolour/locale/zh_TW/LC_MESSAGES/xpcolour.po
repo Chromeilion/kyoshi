@@ -1,0 +1,60 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-16 15:01+0200\n"
+"PO-Revision-Date: 2021-07-16 15:02+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: xpcolour.py:24
+msgid ":white_check_mark: **XP COLOUR CHANGED!**"
+msgstr ":white_check_mark: **經驗條顏色設定成功!**"
+
+#: xpcolour.py:25
+msgid "Your xp colour has been changed. If you type "
+msgstr "你的經驗條已改變顏色，若沒有"
+
+#: xpcolour.py:26
+msgid ""
+"rank and nothing appears, try a new hex code. \n"
+"**Example**:\n"
+"*#0000FF* = *Blue*"
+msgstr ""
+"顯示請輸入新的HEX色碼.\n"
+"**例**\n"
+"*#0000FF* = *藍色*"
+
+#: xpcolour.py:32
+msgid ":x: **SOMETHING WENT WRONG!**"
+msgstr ":x: **設定錯誤!**"
+
+#: xpcolour.py:33
+msgid "Please make sure you typed a hex code in!."
+msgstr "請輸入有效的HEX代碼."
+
+#: xpcolour.py:38
+msgid ""
+"\n"
+"xpcolour <hex code> \n"
+"\n"
+"About:\n"
+"The XPColour command will allow you to change your rank \n"
+"cards xp bar colour to any hex code of your choosing."
+msgstr ""
+"\n"
+"xpcolour <hex 色碼> \n"
+"\n"
+"內容:\n"
+"此指令能更改用戶等級卡上的 \n"
+"經驗條顏色。."

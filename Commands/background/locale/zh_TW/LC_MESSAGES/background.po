@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-16 13:42+0200\n"
+"PO-Revision-Date: 2021-07-16 13:43+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: background.py:21
+msgid ":white_check_mark: **BACKGROUND CHANGED!**"
+msgstr ":white_check_mark: **更換背景!**"
+
+#: background.py:22
+msgid ""
+"Your profile background has been set successfully! If your background does "
+"not update, please try a new image."
+msgstr ""
+"你的等級卡片背景已更換。\n"
+"如果沒有改變，請選擇其他圖檔."
+
+#: background.py:27
+msgid ":x: **SOMETHING WENT WRONG!**"
+msgstr ":x: **錯誤!**"
+
+#: background.py:28
+msgid "Please make sure you entered a link."
+msgstr "輸入的內容必須為圖案連結."
+
+#: background.py:32
+msgid ""
+"\n"
+"background <link> \n"
+"\n"
+"About:\n"
+"The Background command will allow you to change your rank \n"
+"cards background to the image of your choosing.\n"
+"\n"
+"*Note: Some links may not work! If this is the case, send the \n"
+"image to discord, then copy the media link!*"
+msgstr ""
+"\n"
+"背景 <圖片連結> \n"
+"\n"
+"內容：\n"
+"此指令將切換經驗值卡片的背景。\n"
+"\n"
+"*注意：某些連結可能無法工作！請將圖片傳到DC聊天室\n"
+"並複製圖片連結"

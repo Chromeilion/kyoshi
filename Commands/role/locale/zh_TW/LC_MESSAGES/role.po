@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-16 14:58+0200\n"
+"PO-Revision-Date: 2021-07-16 15:00+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: role.py:33 role.py:41 role.py:51 role.py:67 role.py:76
+msgid ":x: SETUP FAILED"
+msgstr ":x: 設定錯誤"
+
+#: role.py:34
+msgid "You need to define if you want to add or remove a role!"
+msgstr "你必須要輸入一個有效的身分組並輸入增加或刪除身分組!"
+
+#: role.py:36 role.py:45 role.py:54
+msgid "role <add|remove> <level> <rolename>`"
+msgstr "role <add|remove> <等級><身分組>`"
+
+#: role.py:36 role.py:45 role.py:54 role.py:70 role.py:79
+msgid "Example:"
+msgstr "例:"
+
+#: role.py:42
+msgid "You need to define a level that the user will unlock the role at!"
+msgstr "你必須要設定用戶要倒幾等以獲得身分組!"
+
+#: role.py:52
+msgid "You need to define a role the user unlocks!"
+msgstr "你必須要設定用戶升等後獲得的身分組!"
+
+#: role.py:61
+msgid ":white_check_mark: ADDED ROLE!"
+msgstr ":white_check_mark: 增加新身分組!"
+
+#: role.py:62
+msgid "Added Role:"
+msgstr ""
+"增加新身分組!\n"
+"新身分組:"
+
+#: role.py:62 role.py:88
+msgid "At Level:"
+msgstr "解鎖等級:"
+
+#: role.py:68
+msgid "You need to define a role name!"
+msgstr "你必須要輸入新身分組的名子!"
+
+#: role.py:70
+msgid "role <add|remove> <levele> <rolename>`"
+msgstr "role <add|remove> <等級><身分組>`"
+
+#: role.py:77
+msgid "You need to define a level the user unlocks the level!"
+msgstr "你必須要設定用戶要倒幾等以獲得身分組!"
+
+#: role.py:79
+msgid "role <add|remove> <rolename> <level>`"
+msgstr "role <add|remove> <身分組><等級>`"
+
+#: role.py:86
+msgid "and"
+msgstr "和"
+
+#: role.py:87
+msgid ":white_check_mark: REMOVED ROLE"
+msgstr ":white_check_mark: 移除身分組"
+
+#: role.py:88
+msgid "Removed Role:"
+msgstr "已移除的身分組:"
+
+#: role.py:94
+msgid ""
+"\n"
+"role <add|remove> <level> <rolename> \n"
+"\n"
+"About:\n"
+"The Role command will let you add/remove \n"
+"roles when a user reaches the set level *Admin Only*"
+msgstr ""
+"\n"
+"role <add|remove> <等級> <身分組> \n"
+"\n"
+"內容:\n"
+"當用戶升到特定等級後將\n"
+"被新增或移除所創身分組。 *僅限管理員*"

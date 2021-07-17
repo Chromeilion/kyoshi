@@ -1,0 +1,78 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-16 14:46+0200\n"
+"PO-Revision-Date: 2021-07-16 14:49+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: levelchannel.py:37
+msgid ""
+"`{prefix}levelchannel <channelname>`\n"
+"\n"
+"*** Please do not use the # and enter any -'s! "
+msgstr ""
+"`{prefix}levelchannel <channelname>`\n"
+"\n"
+"請勿輸入任何\"#\"及\"-\"! "
+
+#: levelchannel.py:38 levelchannel.py:46
+msgid "levelchannel test-channel)***"
+msgstr "levelchannel test-channel)***"
+
+#: levelchannel.py:41
+msgid ":x: SETUP FAILED"
+msgstr ":x: 設定錯誤"
+
+#: levelchannel.py:42
+msgid "You need to enter a channel name!"
+msgstr "你必須要輸入一個頻道名稱!"
+
+#: levelchannel.py:44
+msgid "Example:"
+msgstr "例:"
+
+#: levelchannel.py:45
+msgid ""
+"levelchannel <channelname>`\n"
+"\n"
+"*** Please do not use the # and enter any -'s!"
+msgstr ""
+"levelchannel <頻道名稱>`\n"
+"\n"
+"請勿輸入任何#及-!"
+
+#: levelchannel.py:51
+msgid ":white_check_mark: LEVEL CHANNEL"
+msgstr ":white_check_mark: 設定成功"
+
+#: levelchannel.py:52
+msgid "The new level channel is:"
+msgstr "新的升等通知在:"
+
+#: levelchannel.py:57
+msgid ""
+"\n"
+"levelchannel <channelname> \n"
+"\n"
+"About:\n"
+"The Levelchannel command will let you set the \n"
+"channel where level up messages will send. *Admin Only*"
+msgstr ""
+"\n"
+"levelchannel <頻道名稱> \n"
+"\n"
+"內容:\n"
+"此指令將設定顯示等級提升訊息的頻道\n"
+"*僅限管理員*"

@@ -1,0 +1,56 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-16 02:05+0200\n"
+"PO-Revision-Date: 2021-07-16 02:06+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: addxp.py:29
+msgid ":white_check_mark: **ADDED XP!**"
+msgstr ":white_check_mark: **等級提升!**"
+
+#: addxp.py:30
+msgid "Added"
+msgstr "增加"
+
+#: addxp.py:30
+msgid "xp To:"
+msgstr "經驗值到:"
+
+#: addxp.py:33
+msgid ":x: **SOMETHING WENT WRONG!**"
+msgstr ":x: **錯誤!**"
+
+#: addxp.py:34
+msgid "Please make sure you entered an integer."
+msgstr "請確認輸入的是有效的數值。"
+
+#: addxp.py:39
+msgid ""
+"\n"
+"add <amount> <user> \n"
+"\n"
+"About:\n"
+"The add command will allow you to add xp to a\n"
+"certain user. *Admin Only*\n"
+"\n"
+msgstr ""
+"\n"
+"新增<經驗值><用戶>\n"
+"\n"
+"內容：\n"
+"此指令將添加經驗值到\n"
+"所選用戶。*僅限管理員操作*\n"
+"\n"

@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-16 14:44+0200\n"
+"PO-Revision-Date: 2021-07-16 14:45+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: ignoredrole.py:28
+msgid ":x: SETUP FAILED"
+msgstr ":x: 設定錯誤"
+
+#: ignoredrole.py:29
+msgid "You need to enter a valid name!"
+msgstr "你必須要輸入一個頻道名稱!"
+
+#: ignoredrole.py:31
+msgid "Example:"
+msgstr "例:"
+
+#: ignoredrole.py:31
+msgid "ignoredrole <role>"
+msgstr "ignoredrole <身分組>"
+
+#: ignoredrole.py:35
+msgid ":white_check_mark: IGNORED ROLE SET!"
+msgstr ":white_check_mark: 設定完成!!"
+
+#: ignoredrole.py:36
+msgid "Ignored Role Now:"
+msgstr "不受刷頻偵測的身分組::"
+
+#: ignoredrole.py:41
+msgid ""
+"\n"
+"ignoredrole <role> \n"
+"\n"
+"About:\n"
+"The ignoredrole command will allow you to set a role \n"
+"that gets ignored by Anti-Spam. *Admin Only*"
+msgstr ""
+"\n"
+"ignoredrole <身分組>\n"
+"\n"
+"內容：\n"
+"此指令將允許特定身分組\n"
+"不被防刷頻偵測。*僅限管理員*"

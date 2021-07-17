@@ -1,0 +1,58 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-16 13:49+0200\n"
+"PO-Revision-Date: 2021-07-16 14:32+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: circlepic.py:21 circlepic.py:27
+msgid ":white_check_mark: **PROFILE CHANGED!**"
+msgstr ":white_check_mark: **更換頭像形狀!**"
+
+#: circlepic.py:22
+msgid ""
+"Circle Profile Picture set to: `True`. Set to `False` to return to default."
+msgstr "圓形頭像已設定為`True`.請設定`False`以重設."
+
+#: circlepic.py:28
+msgid ""
+"Circle Profile Picture set to: `False`. Set to `True` to change it to a "
+"circle."
+msgstr "圓形頭像已設定為`False`.請設定`True`以設定為圓形頭像."
+
+#: circlepic.py:32
+msgid ":x: **SOMETHING WENT WRONG!**"
+msgstr ":x: **錯誤!**"
+
+#: circlepic.py:33
+msgid "Please make sure you either typed: `True` or `False`."
+msgstr "請確認你輸入的是`True`或是`False`."
+
+#: circlepic.py:37
+msgid ""
+"\n"
+"circlepic <True|False> \n"
+"\n"
+"About:\n"
+"The Circlepic command will allow you to change your rank\n"
+"cards profile picture to be circular if set to true."
+msgstr ""
+"\n"
+"圓形等級卡片頭像\n"
+"circlepic<True|False>\n"
+"\n"
+"內容：\n"
+"此指令允許用戶更改\n"
+"等級卡片頭像形狀。"

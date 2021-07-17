@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-16 14:57+0200\n"
+"PO-Revision-Date: 2021-07-16 14:58+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: reset.py:28
+msgid ":white_check_mark: RESET USER"
+msgstr ":white_check_mark: 設定成功"
+
+#: reset.py:28
+msgid "Reset User:"
+msgstr "已重設用戶:"
+
+#: reset.py:34
+msgid ":x: RESET USER FAILED"
+msgstr ":x: 設定錯誤"
+
+#: reset.py:35
+msgid "Couldn't Reset! The User:"
+msgstr "無法找尋用戶或是沒有標註該用戶:"
+
+#: reset.py:35
+msgid "doesn't exist or you didn't mention a user!"
+msgstr "設定錯誤。用戶欄位為空或用戶不存在!"
+
+#: reset.py:38
+msgid "Example:"
+msgstr "例:"
+
+#: reset.py:38
+msgid "reset"
+msgstr "重設"
+
+#: reset.py:39
+msgid "Resetting Failed. A user was either not declared or doesn't exist!"
+msgstr "設定錯誤。用戶欄位為空或用戶不存在!"
+
+#: reset.py:43
+msgid ""
+"\n"
+"reset <@user> \n"
+"\n"
+"About:\n"
+"The Reset command will allow you to reset any user back to the \n"
+"bottom level. *Admin Only*"
+msgstr ""
+"\n"
+"reset <用戶> \n"
+"\n"
+"內容:\n"
+"此指令將重設所選用戶的等級。\n"
+"*僅限管理員*"

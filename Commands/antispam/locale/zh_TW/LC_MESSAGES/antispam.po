@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-16 13:39+0200\n"
+"PO-Revision-Date: 2021-07-16 13:41+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: antispam.py:32
+msgid ":x: SETUP FAILED"
+msgstr ":x: 設定錯誤"
+
+#: antispam.py:33
+msgid "You need to enter a valid state!"
+msgstr "你必須要輸入有效的指令!"
+
+#: antispam.py:35
+msgid "Example:"
+msgstr "例:"
+
+#: antispam.py:35
+msgid "antispam <true|false>`"
+msgstr "antispam <true|false>"
+
+#: antispam.py:39
+msgid ":white_check_mark: ANTISPAM ENABLED!"
+msgstr ":white_check_mark: 防刷頻已開啟!"
+
+#: antispam.py:40 antispam.py:46
+msgid "Anti-Spam now set to:"
+msgstr "防刷頻已設定為:"
+
+#: antispam.py:45
+msgid ":white_check_mark: ANTISPAM DISABLED!"
+msgstr ":white_check_mark: 防刷頻已關閉!"
+
+#: antispam.py:51
+msgid ""
+"\n"
+"antispam <enable|disable> \n"
+"\n"
+"About:\n"
+"The antispam command will allow you to see the current\n"
+"stats about AntiSpam *Admin Only*"
+msgstr ""
+"\n"
+"防刷頻<enable|disable>\n"
+"\n"
+"內容:\n"
+"此指令將讓你看到\n"
+"防刷頻指令的狀態*僅限管理員使用*"

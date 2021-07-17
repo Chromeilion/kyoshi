@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-16 14:53+0200\n"
+"PO-Revision-Date: 2021-07-16 14:54+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: mutetime.py:30
+msgid ":x: SETUP FAILED"
+msgstr ":x: 設定錯誤"
+
+#: mutetime.py:31
+msgid "You need to enter a valid integer!"
+msgstr "你必須輸入有效的數值!"
+
+#: mutetime.py:33
+msgid "Example:"
+msgstr "例:"
+
+#: mutetime.py:33
+msgid "mutetime <seconds>`"
+msgstr "mutetime <秒數>`"
+
+#: mutetime.py:37
+msgid ":white_check_mark: MUTED TIME SET!"
+msgstr ":white_check_mark: 設定成功!"
+
+#: mutetime.py:38
+msgid "Mute Time:"
+msgstr "被禁言的時長為:"
+
+#: mutetime.py:38
+msgid "s"
+msgstr "秒"
+
+#: mutetime.py:43
+msgid ""
+"\n"
+"mutetime <seconds> \n"
+"\n"
+"About:\n"
+"The mutetime command will allow you to set how long you get \n"
+"muted for from Anti-Spam. *Admin Only*"
+msgstr ""
+"\n"
+"mutetime <秒數> \n"
+"\n"
+"內容:\n"
+"此指令將設定被禁言的時長\n"
+"*僅限管理員*"

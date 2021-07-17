@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-17 02:07+0200\n"
+"PO-Revision-Date: 2021-07-17 02:08+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
+#: levelsys.py:56
+msgid ""
+" Hey!\n"
+"\n"
+" You will only see this message **once**.\n"
+" To change the channel where levelup messages get sent to:\n"
+"\n"
+"`{PREFIX}levelchannel <channelname>` -- Please do NOT use the hashtag and "
+"enter any -'s!\n"
+"\n"
+"You can also set a role which earns 2x XP by doing the following:\n"
+"\n"
+"`{PREFIX}doublexp <rolename>`\n"
+"\n"
+"You can also add or remove roles after levelling up by doing the "
+"following\n"
+"\n"
+"`{PREFIX}role <add|remove> <level> <rolename>`\n"
+"\n"
+"You can also change how much xp you earn per message by doing:\n"
+"\n"
+"`{PREFIX}xppermessage <amount>`\n"
+"\n"
+"For help with commands:\n"
+"\n"
+"`{PREFIX}help` "
+msgstr ""
+" 親愛的會長及管理員，辛苦你們了，我是專門為此公會而創的機器人，若有任何想"
+"法及建議，請通知firi#5290，感謝配合。\n"
+"以下是該機器人所提供的所有指令列表：\n"
+"!levelchannel <頻道名稱>＝選擇要放置升等訊息的頻道\n"
+"!doubleexp <身份組>＝選擇能獲得兩倍升等經驗的身份組\n"
+"!role <add/remove> <等級> <身份組>＝當用戶升等時，為其添加或移除特定的身份"
+"組\n"
+"!xppermessage <經驗值>＝設定每則文字訊息的經驗值\n"
+"!help＝幫助\n"
+"!rank=顯示個人等級\n"
+"!rank <@用戶名稱>＝顯示所選用戶等級\n"
+"!leaderboard=等級排行榜，依照經驗排名\n"
+"!background <圖片網址>＝將用戶等級卡片的背景更換成所選連結圖片\n"
+"!circlepic <true/false> = 關閉/開啟用戶等級卡片的圓型頭像\n"
+"!xpcolour <hex色碼>=將用戶等級卡片的經驗條改為所選hex顏色\n"
+"!reset <@用戶名稱>=重設用戶所有等級\n"
+"!role <add/remove> <經驗值> <＠用戶名稱>＝移除/添加所選用戶身份組等級經驗"
+"值\n"
+"!antispamstats=顯示防刷頻狀態\n"
+"!antispam <enable/disable>=啟用/禁用房刷頻\n"
+"!warningmessages <訊息數量>＝特定相同訊息數量後，用戶將收到警告\n"
+"!mutemessages <訊息數量>=特定相同訊息數量後，用戶將被禁言\n"
+"!muterole <身份組>＝設定特定禁言身份組，該身份組將無法發言\n"
+"!ignorerole <身份組>＝所選身份組將不會受到刷頻偵測\n"
+"!mutetime <秒數>＝設定禁言時長 "
+
+#: levelsys.py:70
+msgid "has been added to the database! "
+msgstr "已經加入資料庫! "
+
+#: levelsys.py:70 levelsys.py:110 levelsys.py:131 levelsys.py:144
+msgid "User:"
+msgstr "用戶:"
+
+#: levelsys.py:104
+msgid ":tada: **LEVEL UP!**"
+msgstr ":tada: **等級提升!**"
+
+#: levelsys.py:105 levelsys.py:126 levelsys.py:139
+msgid "just reached Level:"
+msgstr "升到了等級:"
+
+#: levelsys.py:110
+msgid "| Leveled UP To:"
+msgstr "提升等級到了:"
+
+#: levelsys.py:111 levelsys.py:128 levelsys.py:141
+msgid "Next Level:"
+msgstr "下一等級:"
+
+#: levelsys.py:125 levelsys.py:138
+msgid ":tada: **LEVEL UP**"
+msgstr ":tada: **等級提升!**"
+
+#: levelsys.py:130 levelsys.py:143
+msgid "Role Unlocked"
+msgstr "身分駔解鎖"
+
+#: levelsys.py:131 levelsys.py:144
+msgid "| Unlocked Role:"
+msgstr "| 解鎖的身分組:"
