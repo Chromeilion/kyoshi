@@ -6,3 +6,4 @@ vacefron.py
 psutil~=5.8.0
 python-dotenv~=0.17.0
 daiquiri~=3.0.0
+pytest~=6.2.4
