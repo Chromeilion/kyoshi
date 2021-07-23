@@ -2,7 +2,7 @@
 
 A discord bot 
 
-This bot was originally forked from https://github.com/KumosLab/Discord-Levels-Bot
+This bot was originally forked from https://github.com/KumosLab/Discord-Levels-Bot.
 It additionally uses https://github.com/eibex/reaction-light for role react features.
 
 The bot in its current state uses a mongodb database, as well as a local database. 
