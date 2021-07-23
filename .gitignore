@@ -130,3 +130,7 @@ dmypy.json
 
 # PyCharm configuration
 .idea/
+
+# Database stuff
+files/reactionlight.db
+files/activities.csv
