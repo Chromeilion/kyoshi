@@ -43,6 +43,7 @@ async def on_ready():
     await client.change_presence(status=config_activity, activity=activity)
 
 
+
 @client.event  # Stops Certain errors from being thrown in the console (Don't remove as it'll cause command error
 # messages to not send! - Only remove if adding features and needed for testing (Don't forget to re-add)!)
 async def on_command_error(ctx, error):
@@ -90,7 +91,9 @@ for path in glob.glob("Commands/*/*"):
 logging.info(f"Loading Level System")
 client.load_extension("Systems.levelsys")
 logging.info(f"Loaded Level System")
-
+logging.info("Loading role-react system")
+client.load_extension("role-react")
+logging.info("Loaded role-react")
 if os.environ['BOT_ANTISPAM_SYSTEM'] is True:
     logging.info(f"Loading Anti-Spam System")
     client.load_extension("Systems.spamsys")
@@ -101,5 +104,6 @@ logging.info("------------- Finished Loading -------------")
 # Uses the bot token to login, so don't remove this.
 token = os.getenv("DISCORD_TOKEN")
 client.run(token)
+
 
 # End Of Main
