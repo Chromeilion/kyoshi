@@ -104,6 +104,3 @@ logging.info("------------- Finished Loading -------------")
 # Uses the bot token to login, so don't remove this.
 token = os.getenv("DISCORD_TOKEN")
 client.run(token)
-
-
-# End Of Main
